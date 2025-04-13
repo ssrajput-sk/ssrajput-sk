@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/ssrajput-sk/ssrajput-sk/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A passionate software developer</h3>
 
